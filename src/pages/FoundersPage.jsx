@@ -1,5 +1,5 @@
+import React from 'react';
 import useAnimate from '../hooks/useAnimate.js';
-
 export default function FoundersPage() {
   useAnimate();
   return (
